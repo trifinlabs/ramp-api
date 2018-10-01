@@ -1,7 +1,7 @@
 {
   "name": "ramp-api-sandbox",
   "version": "1.0.0",
-  "description": "[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://bitbucket.org/trifinlabs/ramp-api)",
+  "description": "[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/trifinlabs/ramp-api)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
