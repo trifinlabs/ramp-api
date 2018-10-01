@@ -6,8 +6,5 @@
   "addons": ["heroku-postgresql:hobby-dev", "papertrail", "auth0:free", "herokuconnect:demo", "pubnub:go-sandbox"],
   "env": {
     "NODE_ENV": "development"
-  },
-  "scripts": {
-    "postdeploy": "bundle exec rake db:migrate"
   }
 }
