@@ -1,0 +1,15 @@
+{
+  "name": "Example",
+  "options": {},
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "hidden": [],
+  "mixins": {
+    "Example": {
+      "myOption": 1,
+      "anotherOpt": 2
+    }
+  }
+}
