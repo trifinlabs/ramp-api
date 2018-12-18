@@ -7,9 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "engines": {
+    "node": "^8.6"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ramp-api": "^0.0.11"
+    "ramp-api": "^1.0.6"
   }
 }
