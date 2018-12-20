@@ -3,7 +3,7 @@
   "description": "The RAMP-API framework.",
   "website": "http://trifinlabs.com",
   "success_url": "/explorer",
-  "addons": ["heroku-postgresql:hobby-dev", "papertrail", "auth0:free", "herokuconnect:demo", "pubnub:go-sandbox"],
+  "addons": ["heroku-postgresql:hobby-dev", "ramp", "papertrail", "auth0:free", "herokuconnect:demo", "pubnub:go-sandbox"],
   "env": {
     "NODE_ENV": "development"
   }
