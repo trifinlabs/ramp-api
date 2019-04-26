@@ -1,1 +1,1 @@
-web: ./node_modules/ramp-api/bin/ramp-api-linux
+web: ./node_modules/.bin/ramp-api server
