@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ramp-api": "^2.9.1"
+    "ramp-api": "^2.13.1"
   }
 }
