@@ -9,7 +9,7 @@
     "start-macos": "ramp-api-mac server",
     "cli": "ramp-api-linux",
     "cli-win": "ramp-api-win.cmd",
-    "cli-macos": "ramp-api-macos"
+    "cli-macos": "ramp-api-mac"
   },
   "keywords": [],
   "engines": {
